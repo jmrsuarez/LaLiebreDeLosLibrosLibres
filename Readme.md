@@ -10,22 +10,44 @@
 Metodos mecanicos de hacer un libro
 Recuerdo que uno de mis primeros libros que lei del tema de la computacion fue "Computer life" de Michael Chrichton de fama por la serie de peliculas "Jurasik Park" el primer libro que lei de el estaba hecho con una formula como tipo de abecedario, que el escribia parrafos sobre el tema de computer life en orden alfabetico, un metodo muy mecanico pero facil de hacer un libro sobre un tema, pero claro hay muchas formas de hacer un libro.
 
+Busca talleres de escritores, haz comunidad real
+
+Busca comunidades en linea
+https://nanowrimo.org/
+https://www.reddit.com/r/writing/
+https://www.getunderlined.com/community/
+https://www.critiquecircle.com/landing
 
 ## EDITA TU LIBRO
 
+Alternativas para editar tu libro en linea, te ayudan a formar el libro en un pdf, kindle o en un epub
+
 Hay varias plataformas, que no necesitas una computadora para hacer un libro, una de esas plataformas es la italiana que ahorita se me fue, pero la investigo y la ponga
 
-otra es redsy
+Hay unas plataformas todo en uno que hacen tooodo el proceso,
 
 
+- StreetLib y https://writeapp.io
+- Reedsy https://reedsy.com/
+- Esta todavia no la conosco https://www.lulu.com/
+
+Hay otras publicadoras que tienen un enorme base de clientes
+
+- Google playstore books
+- Apple itunes
+
+
+https://www.blurb.com/blog/free-isbn-blurb/
+
+https://www.draft2digital.com/
 
 ## PUBLICA Y VENDE TU LIBRO
 
+Obten tu ISBN para tu libro.
+https://www.blurb.com/blog/free-isbn-blurb/
 
 
-
-
-
+Nuestro propio publicador de libros local, Amazon, google y Apple
 
 https://selfpublishing.com/self-publishing-platforms/
 
